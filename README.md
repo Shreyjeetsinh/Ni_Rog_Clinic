@@ -2,8 +2,6 @@
 
 A comprehensive **Clinic Management System** built to streamline and automate patient registration, appointment booking, and clinic administration for hospitals, clinics, and dispensaries.
 
-Developed as a Bachelor of Engineering (Information Technology) internship project at **Acty System India Pvt. Ltd.**, under the guidance of Prof. Kaushal Patel, in fulfillment of the degree requirements at Gujarat Technological University.
-
 ---
 
 ## 📋 Table of Contents
@@ -83,7 +81,7 @@ Development followed an **Incremental Model**: requirements were defined early, 
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/ni-rog-clinic.git
+git clone https://github.com/Shreyjeetsinh/ni-rog-clinic.git
 
 # Open the solution in Visual Studio
 cd ni-rog-clinic
@@ -128,10 +126,5 @@ The system was tested using unit and system-level test cases, covering:
 
 ## Author
 
-**Samarth Pragneshkumar Shah**
-B.E. Information Technology — Sardar Patel College of Engineering, Bakrol
-Gujarat Technological University, Ahmedabad
+**Shreyjeetsinh Dodiya**
 
----
-
-*This project was developed as part of an internship at Acty System India Pvt. Ltd.*
