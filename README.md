@@ -1,7 +1,6 @@
 # 🏥 Ni-Rog Clinic
 
 A comprehensive **Clinic Management System** built to streamline and automate patient registration, appointment booking, and clinic administration for hospitals, clinics, and dispensaries.
-
 ---
 
 ## 📋 Table of Contents
